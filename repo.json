@@ -1,8 +1,8 @@
 {
-  "name": "Mon Repo Streaming CI",
-  "description": "Sources streaming tout-en-un",
-  "manifestVersion": 2,
+  "name": "cloudstream-repo",
+  "description": "Mon repo CloudStream",
+  "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/jemeforme1988/cloudstream-repo/main/plugins.json"
+    "https://jemeforme1988-hash.github.io/cloudstream-repo/plugins.json"
   ]
 }
