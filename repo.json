@@ -1,6 +1,6 @@
 {
-  "name": "cloudstream-repo",
-  "description": "Mon repo CloudStream",
+  "name": "Mon Repo CloudStream",
+  "description": "Extensions CloudStream",
   "manifestVersion": 1,
   "pluginLists": [
     "https://jemeforme1988-hash.github.io/cloudstream-repo/plugins.json"
