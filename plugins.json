@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Kidraz",
+    "url": "https://www.kidraz.com/saby1jy/home/kidraz",
+    "apiName": "Kidraz",
+    "version": 1,
+    "iconUrl": "https://www.kidraz.com/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "Movix",
+    "url": "https://movix.cash/",
+    "apiName": "Movix",
+    "version": 1,
+    "iconUrl": "https://movix.cash/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "Purstream",
+    "url": "https://purstream.cx/",
+    "apiName": "Purstream",
+    "version": 1,
+    "iconUrl": "https://purstream.cx/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "AfterDark",
+    "url": "https://afterdark.rest/",
+    "apiName": "AfterDark",
+    "version": 1,
+    "iconUrl": "https://afterdark.rest/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": true
+  },
+  {
+    "name": "Webflix",
+    "url": "https://webflix.lol/",
+    "apiName": "Webflix",
+    "version": 1,
+    "iconUrl": "https://webflix.lol/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "Nakios",
+    "url": "https://nakios.fit/",
+    "apiName": "Nakios",
+    "version": 1,
+    "iconUrl": "https://nakios.fit/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "WaveWatch",
+    "url": "https://wavewatch.top/",
+    "apiName": "WaveWatch",
+    "version": 1,
+    "iconUrl": "https://wavewatch.top/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "1Jour1Film",
+    "url": "https://1jour1film0526b.site/",
+    "apiName": "1Jour1Film",
+    "version": 1,
+    "iconUrl": "https://1jour1film0526b.site/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "Flemmix",
+    "url": "https://flemmix.casa/",
+    "apiName": "Flemmix",
+    "version": 1,
+    "iconUrl": "https://flemmix.casa/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "FS03",
+    "url": "https://fs03.lol/",
+    "apiName": "FS03",
+    "version": 1,
+    "iconUrl": "https://fs03.lol/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "Serveur Direct",
+    "url": "http://212.47.64.168/",
+    "apiName": "DirectServer",
+    "version": 1,
+    "iconUrl": "",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "DuLourd",
+    "url": "https://www.dulourd.hair/",
+    "apiName": "DuLourd",
+    "version": 1,
+    "iconUrl": "https://www.dulourd.hair/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "OpenDirSearch",
+    "url": "https://opendirsearch.abifog.com/",
+    "apiName": "OpenDirSearch",
+    "version": 1,
+    "iconUrl": "https://opendirsearch.abifog.com/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "YukiFlix",
+    "url": "https://yukiflix.mov/decouvrir",
+    "apiName": "YukiFlix",
+    "version": 1,
+    "iconUrl": "https://yukiflix.mov/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  },
+  {
+    "name": "Cultura Academy",
+    "url": "https://cultura.academy/",
+    "apiName": "CulturaAcademy",
+    "version": 1,
+    "iconUrl": "https://cultura.academy/favicon.ico",
+    "language": "fr",
+    "fileSize": 0,
+    "status": 1,
+    "isAdult": false
+  }
+]
